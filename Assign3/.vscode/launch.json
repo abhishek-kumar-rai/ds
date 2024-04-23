@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ArrSum",
+      "request": "launch",
+      "mainClass": "ArrSum",
+      "projectName": "Assign3_272fc5c4"
+    },
+    {
+      "name": "C++ Compiler",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "C:/MinGW/bin",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true
+    }
+  ]
+}

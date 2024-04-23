@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CalculatorClient",
+      "request": "launch",
+      "mainClass": "client.CalculatorClient",
+      "projectName": "Assign 2_bec8f0a1"
+    },
+    {
+      "type": "java",
+      "name": "CalculatorServer",
+      "request": "launch",
+      "mainClass": "server.CalculatorServer",
+      "projectName": "Assign 2_bec8f0a1"
+    },
+    {
+      "name": "C++ Compiler",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "C:/MinGW/bin",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true
+    }
+  ]
+}

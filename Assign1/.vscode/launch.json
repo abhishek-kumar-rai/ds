@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ClientRequest",
+      "request": "launch",
+      "mainClass": "client.ClientRequest",
+      "projectName": "Assign1_272fc5c2"
+    },
+    {
+      "type": "java",
+      "name": "SearchServer",
+      "request": "launch",
+      "mainClass": "server.SearchServer",
+      "projectName": "Assign1_272fc5c2"
+    },
+    {
+      "name": "C++ Compiler",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "C:/MinGW/bin",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true
+    }
+  ]
+}
